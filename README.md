@@ -1,6 +1,6 @@
 # Search From Location
 
-![License](https://img.shields.io/github/license/tlb-lemrabott/search-from-location)
+![License](https://img.shields.io/github/license/tlb-lemrabott/search-from-location) 
 
 ## Project Description:
 This application allows users to manually specify a starting location and search for nearby places or services (e.g., grocery stores, bus stations, cafes) around that location, regardless of their current physical position. Unlike most map services that use the device’s real-time location by default, this app gives users full control over the "search from" location.
